@@ -1,0 +1,23 @@
+/* Style cho form */
+form {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+textarea {
+  width: 100%;
+}
+
+/* Style cho success message */
+#successMessage {
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #e6ffe6;
+  border: 1px solid #66cc66;
+}

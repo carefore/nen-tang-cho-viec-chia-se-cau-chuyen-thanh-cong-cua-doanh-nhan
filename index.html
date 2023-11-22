@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Chia sẻ câu chuyện thành công</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Chia sẻ câu chuyện thành công của bạn</h1>
+
+<form id="storyForm">
+  <label for="author">Tác giả:</label>
+  <input type="text" id="author" name="author" required><br><br>
+  
+  <label for="story">Câu chuyện:</label><br>
+  <textarea id="story" name="story" rows="6" required></textarea><br><br>
+  
+  <input type="submit" value="Gửi câu chuyện">
+</form>
+
+<div id="successMessage" style="display:none;">
+  <p>Câu chuyện của bạn đã được gửi thành công!</p>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="script.js"></script>
+
+</body>
+</html>
