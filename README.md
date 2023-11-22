@@ -1,5 +1,4 @@
 
-```markdown
 # Chia sẻ Câu Chuyện Thành Công - Doanh Nhân
 
 Đây là dự án chia sẻ các câu chuyện thành công của doanh nhân, nơi mọi người có thể đóng góp và đọc những câu chuyện truyền cảm hứng từ những người thành công.
